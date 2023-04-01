@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: demo1
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    name: defaultDataSource
+    url: jdbc:mysql://123.60.143.132:3306/dev?serverTimezone=UTC
+    username: root
+    password: Evicce123$$
+server:
+  port: 8080
+
